@@ -61,7 +61,7 @@ This structured categorization helps users navigate and connect with artists fro
 
 ## 🌍 Live Demo  
 Check out the live version of **Artfluence** here:  
-[![Website](https://img.shields.io/badge/Live%20Demo-Artfluence-orange?style=for-the-badge&logo=render)](https://artfluence.onrender.com/)
+[![Website](https://img.shields.io/badge/Live%20Demo-Artfluence-orange?style=for-the-badge&logo=render)](https://artfluencee.onrender.com/)
 
 
 
